@@ -22,6 +22,8 @@ public class Genaric_Method_Click_Button {
 		 clickButton("//img[@alt='OrangeHRM on youtube']");
 		 clickButton("//img[@alt='OrangeHRM on twitter']");
 		 
+		 System.out.println("Test");
+		 
 		
 		
 
