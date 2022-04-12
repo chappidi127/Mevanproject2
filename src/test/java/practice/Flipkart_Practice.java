@@ -22,6 +22,7 @@ public class Flipkart_Practice {
 		System.out.println(str);
 		
 	  String [] strarr=str.split(" ");
+	  System.out.println();
 	  System.out.println(strarr[2]);
 		
 		
