@@ -7,7 +7,7 @@ public class Find_index_ofcharecter_String {
 		int index=0;
 		char[] ch= str.toCharArray();
 		for (int i = 0; i < ch.length; i++) {
-			if(ch[i]=='k') {
+			if(ch[i]=='d') {
 				index=i;
 				
 				

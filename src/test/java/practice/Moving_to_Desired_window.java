@@ -59,8 +59,9 @@ public class Moving_to_Desired_window {
 		    System.out.println(Title);
 			if(Title.contains(windowTitile)) {
 				System.out.println("found right  window ");
-				return true;
 				System.out.println("Test");
+				return true;
+				
 			}
 		}
 		return false;
