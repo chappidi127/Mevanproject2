@@ -14,6 +14,7 @@ public class Find_index_ofcharecter_String {
 			}
 		}
   System.out.println("index "+index);
+		 System.out.println("upendrs");
 	}
 
 }
