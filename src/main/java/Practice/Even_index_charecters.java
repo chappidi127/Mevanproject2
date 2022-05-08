@@ -9,6 +9,8 @@ public class Even_index_charecters {
 			
 			if(i%2 ==0) {
 				System.out.print(" "+word[i]);
+				System.out.print("commit for 08/05");
+				
 			}
 			
 		}
