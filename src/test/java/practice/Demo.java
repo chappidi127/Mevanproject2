@@ -31,6 +31,12 @@ public class Demo {
 		  System.out.println("Using Get text");
 		  
 		  System.out.println(wb.getText());
+		  System.out.println("Using Get text");
+		  System.out.println("Using Get text");
+		  System.out.println("Using Get text");
+		  System.out.println("Using Get text");
+		  System.out.println("Using Get text");
+		  System.out.println("Using Get text");
 		
 			
 
