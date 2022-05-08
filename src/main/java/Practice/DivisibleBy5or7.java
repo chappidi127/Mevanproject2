@@ -19,6 +19,8 @@ public class DivisibleBy5or7 {
 			
 			if(i%5==0 && i%7==0) {
 				System.out.println("Divible by 5 & 7" +" = "+i);
+				
+				System.out.println("Upendra testing");
 			}
 					}
 		
