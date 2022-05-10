@@ -7,6 +7,7 @@ public class NewClass {
 
 		
 			System.out.println("Temp");
+			System.out.println("Temp");
 	}
 
 }
