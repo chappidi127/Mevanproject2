@@ -23,6 +23,12 @@ public class Find_index_of_Element_InArray {
 		System.out.println("Bhaskar Test");
 		System.out.println("Bhaskar Test");
 		System.out.println("Bhaskar Test");
+		
+		System.out.println("Index ="+index);
+		System.out.println("Bhaskar Test");
+		System.out.println("Bhaskar Test");
+		System.out.println("Bhaskar Test");
+		System.out.println("Bhaskar Test");
                
                
 		
